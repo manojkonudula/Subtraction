@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void helow()
     {
-
+       int a= 20; int b=30;
+       int c= b-a;
     }
 }
